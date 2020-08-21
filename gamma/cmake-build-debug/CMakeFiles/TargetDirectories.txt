@@ -1,5 +1,0 @@
-/home/mateusz/github-gamma-repo/gamma/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/mateusz/github-gamma-repo/gamma/cmake-build-debug/CMakeFiles/test.dir
-/home/mateusz/github-gamma-repo/gamma/cmake-build-debug/CMakeFiles/gamma.dir
-/home/mateusz/github-gamma-repo/gamma/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/mateusz/github-gamma-repo/gamma/cmake-build-debug/CMakeFiles/doc.dir

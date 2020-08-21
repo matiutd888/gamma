@@ -1,1 +1,0 @@
-/usr/bin/cc -std=c11 -Wall -Wextra -Werror -g  -rdynamic CMakeFiles/test.dir/src/memory_util.c.o CMakeFiles/test.dir/src/stack.c.o CMakeFiles/test.dir/src/gamma_test.c.o CMakeFiles/test.dir/src/gamma.c.o CMakeFiles/test.dir/src/int_to_string_util.c.o  -o gamma_test 
