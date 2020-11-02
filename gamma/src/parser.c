@@ -109,9 +109,6 @@ static bool read_numbers(char *line, int parameters_count, uint32_t *numbers) {
         if (it > parameters_count - 1) {
             return false;
         } else {
-            //TODO zastanowić się
-            /*if (!is_number(token))
-                return false;*/
             errno = 0;
             uint64_t wynik = strtoul(token, NULL, 10);
             if (errno == ERANGE || wynik > UINT32_MAX)
