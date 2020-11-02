@@ -1,5 +1,5 @@
 A game written in C as my university project. My implementation of game engine (gamma.c) involved 
-implementation of structures like stack (implemented as dynammic array) and find union (although not implemented explictly) and algorithms like DFS.
+implementing structures like stack (implemented as dynammic array) or find union (although it is not implemented explictly in the project), and algorithms like DFS.
 Game can be played in two modes - interactive mode and by command line interface.
 Writing command line (batch) mode of the game required writing a parser in C, and
 implementing interactive mode of the game was an opportunity to learn about ANSI escape codes.
