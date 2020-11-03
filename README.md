@@ -1,6 +1,7 @@
 # The Gamma game
 ## Introduction
-This project was written as a part of Individual Programming Project class in summer semester of academic year 2019/2020.
+This project was written as a part of Individual Programming Project class in summer semester of academic year 2019/2020. It involved implementing in C
+data structures like Union-find Forest or stack (implemented as dynamic array), using simple graph algorithms and writing own parser as well as interactive  interface in terminal (see [Interactive Mode](#interactive-mode)).
 ## Description
 The game takes place on a rectangle-shaped board that consists of square fields. 
 Two fields are adjacent to each other if they are in the same row or column of the board.
