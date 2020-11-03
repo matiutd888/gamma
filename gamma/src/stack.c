@@ -5,6 +5,7 @@
  * @copyright Uniwersytet Warszawski
  * @date 07.04.2020
  */
+
 #include "stack.h"
 #include "memory_util.h"
 #include "field.h"
