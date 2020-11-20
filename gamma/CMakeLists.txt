@@ -53,8 +53,8 @@ set(TEST_SOURCE_FILES
     src/int_to_string_util.h)
 
 
-add_executable(test EXCLUDE_FROM_ALL ${TEST_SOURCE_FILES})
-set_target_properties(test PROPERTIES OUTPUT_NAME gamma_test)
+add_executable(testv EXCLUDE_FROM_ALL ${TEST_SOURCE_FILES})
+set_target_properties(testv PROPERTIES OUTPUT_NAME gamma_test)
 
 # Wskazujemy plik wykonywalny.
 add_executable(gamma ${SOURCE_FILES})
